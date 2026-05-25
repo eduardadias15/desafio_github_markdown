@@ -1,7 +1,11 @@
-# desafio_github_markdown
-desafio curso de git e github
+# Desafio GitHub Markdown
 
-## sobre o repositório
-repositório criado para o desafio no curso de git e github.
+## Descrição
+Repositório criado para o desafio da DIO sobre Git e GitHub.
 
+## Tecnologias
+- Git
+- GitHub Desktop
 
+## Autor
+eduardadias15
